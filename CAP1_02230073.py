@@ -4,11 +4,14 @@
 # 02230073
 ################################
 # REFERENCES
-# @DQ-Logo
-# @Blackbox.ai
+# https://www.dataquest.io/blog/read-file-python/#:~:text=Python%20provides%20a%20built%2Din,we%20can%20manipulate%20its%20content
+# https://github.com/kying18/rock-paper-scissors
+# https://youtu.be/Qcefu1jVPds?si=bw3T3BUpaVHk7Cq5
+# https://youtu.be/Stx952qn9co?si=CRLFVzngpS9iKXu5
+# https://youtu.be/zfdfJMw9n1g?si=kQEZdStI56aRLiLM
 ################################
 # SOLUTION
-# Your Solution Score:49483
+# Your Solution Score: 49548
 # CSF101-CAP/input_3_cap1.txt
 ################################# 
 # Reading the input.txt file
